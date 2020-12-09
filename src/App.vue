@@ -89,7 +89,7 @@ export default {
     fetchCities() {
       this.cities = [
         "Barrie",
-        "Antarctica",
+        "Seoul",
         "Montego Bay",
         "London",
         "Jerusalem",
